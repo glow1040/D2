@@ -1,0 +1,16 @@
+*{
+    background-color: powderblue;
+   }
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.rounded{
+    width: 300px;
+    margin: auto
+}
+
+.rounded img{
+    border-radius: 50%
+}
