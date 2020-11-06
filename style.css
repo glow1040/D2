@@ -1,14 +1,16 @@
 *{
-    background-color: powderblue;
+    background-color: rgb(234, 237, 238);
    }
 h1 {
-    text-align: center;
+    text-align:left;
     font-size: 25px;
 }
 
 .rounded{
-    width: 300px;
-    margin: auto
+    width: 100px;
+    margin: auto;
+    border: 25%;
+    color: aqua;
 }
 
 .rounded img{
