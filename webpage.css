@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(219, 216, 216,0.8);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#header {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+#content {
+    padding: 10px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#nav {
+    width: 180px;
+}
+#footer {
+    float: none;
+    text-align: center;
+    background-color:rgb(219, 212, 212);
+
+}
